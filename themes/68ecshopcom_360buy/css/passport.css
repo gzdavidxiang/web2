@@ -90,20 +90,20 @@ body {
 }
 .w .mcon .box-pic {
 	position: absolute;
-	/*background: url(../images/login/loginPic.jpg) no-repeat 0;*/
-	background: url(/img/logo_haibao.jpg) no-repeat center 0;
+	/*background: url(https://www.cn02020.com/images/login/loginPic.jpg) no-repeat 0;*/
+	background: url(https://www.cn02020.com/img/logo_haibao.jpg) no-repeat center 0;
 	width: 630px;
 	height: 430px;
 	left: -605px;
 	top: 0px;
 }
 .w .mcon .box-pic1 {
-	/*background: url(../images/login/registerPic.jpg) no-repeat 0;*/
-	background: url(/img/logo_haibao.jpg) no-repeat 0;
+	/*background: url(https://www.cn02020.com/images/login/registerPic.jpg) no-repeat 0;*/
+	background: url(https://www.cn02020.com/img/logo_haibao.jpg) no-repeat 0;
 	left: 0px
 }
 .w .mcon .box-pic2 {
-	background: url(../images/login/forgetPic.jpg) no-repeat 0;
+	background: url(https://www.cn02020.com/images/login/forgetPic.jpg) no-repeat 0;
 }
 .w .mcon .uc_box {
 	/*position: absolute;*/
@@ -222,7 +222,7 @@ body {
 	width: 135px;
 }
 #entry .succeed {
-	background: url(../images/login/pwdstrength.gif) no-repeat -105px 0;
+	background: url(https://www.cn02020.com/images/login/pwdstrength.gif) no-repeat -105px 0;
 }
 #entry .btn-entry, #entry .btn-img {
 	width: 300px;
@@ -351,7 +351,7 @@ body {
 #regist i {
 	position: absolute;
 	right: 8px;
-	background: url(../images/login/register.png) no-repeat scroll 0 0
+	background: url(https://www.cn02020.com/images/login/register.png) no-repeat scroll 0 0
 }
 #regist .text_te {
 	width: 90px;
@@ -546,13 +546,13 @@ body {
 	display: block;
 	width: 290px;
 	height: 70px;
-	/*background: url(../images/header/logo.jpg) no-repeat;*/
-	background: url(/img/logo.png) no-repeat;
+	/*background: url(https://www.cn02020.com/images/header/logo.jpg) no-repeat;*/
+	background: url(https://www.cn02020.com/img/logo.png) no-repeat;
 	margin: 10px 0 0 0px;
 	float: left;
 }
 .Logo-info-r a.sina, .Logo-info-r a.qq, .Logo-info-r span.weixin, .item table td a i {
-	background: url(../images/login/login.png) no-repeat
+	background: url(https://www.cn02020.com/images/login/login.png) no-repeat
 }
 .Logo-info-r a.sina {
 	width: 23px;
@@ -699,7 +699,7 @@ body {
 	padding-bottom:20px
 }
 #find_pw .shadow_l, #find_pw .shadow_r, #find_pw3 .shadow_l, #find_pw3 .shadow_r {
-	background: url(../images/upgrade_ad/shadow.png) no-repeat center;
+	background: url(https://www.cn02020.com/images/upgrade_ad/shadow.png) no-repeat center;
 	position: absolute;
 	height: 100%;
 	width: 8px;
@@ -954,7 +954,7 @@ dl.done {
 .find_box_end p i {
 	width: 25px;
 	height: 25px;
-	background: url(../images/upgrade_ad/find_pw_end.png) no-repeat center left;
+	background: url(https://www.cn02020.com/images/upgrade_ad/find_pw_end.png) no-repeat center left;
 	display: inline-block;
 	vertical-align: middle;
 	position: absolute;
